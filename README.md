@@ -1,6 +1,6 @@
 # TournamentKings
 
-A template for Lean 4 projects that depend on [Mathlib](https://github.com/leanprover-community/mathlib4).
+Material was ported over from [this repo](https://github.com/kieranr-13/tournament-kings) on 18 Nov.
 
 ## Prerequisites
 
