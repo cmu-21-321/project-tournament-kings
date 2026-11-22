@@ -8,4 +8,4 @@ I proved that every maximum-outdegree vertex is a king, so every finite, nonempt
 
 I chose this project because it resembled a sports tournament and I thought it would be interest to prove a result that relates to sports.  
 
-Access Basic.lean in the file TournamentKings to see my code. Access [] to see my write up.
+Access Basic.lean in the file TournamentKings to view my code. Access King_in_Tournament_graph.pdf to view the written report.
