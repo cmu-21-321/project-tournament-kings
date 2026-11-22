@@ -7,3 +7,5 @@ This project formalizes results about kings in finite tournament graphs in Lean 
 I proved that every maximum-outdegree vertex is a king, so every finite, nonempty tournament has a king. I also proved that if every vertex has an incoming neighbor, then the tournament has at least three distinct kings.
 
 I chose this project because it resembled a sports tournament and I thought it would be interest to prove a result that relates to sports.  
+
+Access Basic.lean in the file TournamentKings to see my code. Access [] to see my write up.
